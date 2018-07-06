@@ -1,0 +1,1065 @@
+[
+    {
+        "FileName": "I00136.jpg"
+    },
+    {
+        "label": "car",
+        "confidence": 0.40525326132774353,
+        "topleft": {
+            "x": 260,
+            "y": 202
+        },
+        "bottomright": {
+            "x": 314,
+            "y": 255
+        }
+    },
+    {
+        "label": "car",
+        "confidence": 0.3873201906681061,
+        "topleft": {
+            "x": 486,
+            "y": 241
+        },
+        "bottomright": {
+            "x": 542,
+            "y": 272
+        }
+    },
+    {
+        "label": "car",
+        "confidence": 0.35312655568122864,
+        "topleft": {
+            "x": 3,
+            "y": 189
+        },
+        "bottomright": {
+            "x": 79,
+            "y": 491
+        }
+    }
+][
+    {
+        "FileName": "I00733.jpg"
+    },
+    {
+        "label": "person",
+        "confidence": 0.41483625769615173,
+        "topleft": {
+            "x": 378,
+            "y": 204
+        },
+        "bottomright": {
+            "x": 392,
+            "y": 244
+        }
+    },
+    {
+        "label": "person",
+        "confidence": 0.5339037775993347,
+        "topleft": {
+            "x": 488,
+            "y": 203
+        },
+        "bottomright": {
+            "x": 506,
+            "y": 252
+        }
+    },
+    {
+        "label": "boat",
+        "confidence": 0.5995232462882996,
+        "topleft": {
+            "x": 118,
+            "y": 221
+        },
+        "bottomright": {
+            "x": 203,
+            "y": 291
+        }
+    }
+][
+    {
+        "FileName": "I00318.jpg"
+    },
+    {
+        "label": "person",
+        "confidence": 0.3885309398174286,
+        "topleft": {
+            "x": 404,
+            "y": 221
+        },
+        "bottomright": {
+            "x": 446,
+            "y": 284
+        }
+    },
+    {
+        "label": "boat",
+        "confidence": 0.35126110911369324,
+        "topleft": {
+            "x": 242,
+            "y": 202
+        },
+        "bottomright": {
+            "x": 306,
+            "y": 252
+        }
+    }
+][
+    {
+        "FileName": "I00398.jpg"
+    }
+][
+    {
+        "FileName": "I00767.jpg"
+    },
+    {
+        "label": "car",
+        "confidence": 0.3154224753379822,
+        "topleft": {
+            "x": 415,
+            "y": 207
+        },
+        "bottomright": {
+            "x": 486,
+            "y": 296
+        }
+    }
+][
+    {
+        "FileName": "I00425.jpg"
+    }
+][
+    {
+        "FileName": "I00849.jpg"
+    },
+    {
+        "label": "person",
+        "confidence": 0.32992568612098694,
+        "topleft": {
+            "x": 482,
+            "y": 216
+        },
+        "bottomright": {
+            "x": 495,
+            "y": 255
+        }
+    }
+][
+    {
+        "FileName": "I00667.jpg"
+    },
+    {
+        "label": "person",
+        "confidence": 0.6021300554275513,
+        "topleft": {
+            "x": 91,
+            "y": 166
+        },
+        "bottomright": {
+            "x": 123,
+            "y": 253
+        }
+    },
+    {
+        "label": "person",
+        "confidence": 0.48127609491348267,
+        "topleft": {
+            "x": 7,
+            "y": 188
+        },
+        "bottomright": {
+            "x": 41,
+            "y": 273
+        }
+    }
+][
+    {
+        "FileName": "I00083.jpg"
+    },
+    {
+        "label": "person",
+        "confidence": 0.30821314454078674,
+        "topleft": {
+            "x": 423,
+            "y": 252
+        },
+        "bottomright": {
+            "x": 474,
+            "y": 411
+        }
+    }
+][
+    {
+        "FileName": "I00002.jpg"
+    },
+    {
+        "label": "car",
+        "confidence": 0.35559526085853577,
+        "topleft": {
+            "x": 351,
+            "y": 222
+        },
+        "bottomright": {
+            "x": 442,
+            "y": 330
+        }
+    },
+    {
+        "label": "parking meter",
+        "confidence": 0.31989234685897827,
+        "topleft": {
+            "x": 185,
+            "y": 218
+        },
+        "bottomright": {
+            "x": 346,
+            "y": 405
+        }
+    }
+][
+    {
+        "FileName": "I00609.jpg"
+    }
+][
+    {
+        "FileName": "I00197.jpg"
+    },
+    {
+        "label": "car",
+        "confidence": 0.34070584177970886,
+        "topleft": {
+            "x": 158,
+            "y": 198
+        },
+        "bottomright": {
+            "x": 226,
+            "y": 263
+        }
+    },
+    {
+        "label": "car",
+        "confidence": 0.4063299596309662,
+        "topleft": {
+            "x": 278,
+            "y": 232
+        },
+        "bottomright": {
+            "x": 367,
+            "y": 274
+        }
+    },
+    {
+        "label": "boat",
+        "confidence": 0.4257188141345978,
+        "topleft": {
+            "x": 472,
+            "y": 257
+        },
+        "bottomright": {
+            "x": 619,
+            "y": 363
+        }
+    }
+][
+    {
+        "FileName": "I00716.jpg"
+    }
+][
+    {
+        "FileName": "I00343.jpg"
+    },
+    {
+        "label": "boat",
+        "confidence": 0.5405573844909668,
+        "topleft": {
+            "x": 263,
+            "y": 195
+        },
+        "bottomright": {
+            "x": 314,
+            "y": 255
+        }
+    }
+][
+    {
+        "FileName": "I00164.jpg"
+    },
+    {
+        "label": "person",
+        "confidence": 0.42017772793769836,
+        "topleft": {
+            "x": 5,
+            "y": 225
+        },
+        "bottomright": {
+            "x": 43,
+            "y": 294
+        }
+    },
+    {
+        "label": "boat",
+        "confidence": 0.3443034887313843,
+        "topleft": {
+            "x": 290,
+            "y": 217
+        },
+        "bottomright": {
+            "x": 359,
+            "y": 293
+        }
+    },
+    {
+        "label": "boat",
+        "confidence": 0.4086854159832001,
+        "topleft": {
+            "x": 367,
+            "y": 234
+        },
+        "bottomright": {
+            "x": 486,
+            "y": 283
+        }
+    },
+    {
+        "label": "boat",
+        "confidence": 0.4358274042606354,
+        "topleft": {
+            "x": 491,
+            "y": 244
+        },
+        "bottomright": {
+            "x": 611,
+            "y": 326
+        }
+    },
+    {
+        "label": "boat",
+        "confidence": 0.7510082125663757,
+        "topleft": {
+            "x": 348,
+            "y": 240
+        },
+        "bottomright": {
+            "x": 518,
+            "y": 385
+        }
+    }
+][
+    {
+        "FileName": "I00246.jpg"
+    },
+    {
+        "label": "car",
+        "confidence": 0.3436514437198639,
+        "topleft": {
+            "x": 52,
+            "y": 221
+        },
+        "bottomright": {
+            "x": 138,
+            "y": 295
+        }
+    },
+    {
+        "label": "bus",
+        "confidence": 0.31478750705718994,
+        "topleft": {
+            "x": 48,
+            "y": 213
+        },
+        "bottomright": {
+            "x": 141,
+            "y": 307
+        }
+    }
+][
+    {
+        "FileName": "I00229.jpg"
+    },
+    {
+        "label": "car",
+        "confidence": 0.31401941180229187,
+        "topleft": {
+            "x": 459,
+            "y": 239
+        },
+        "bottomright": {
+            "x": 523,
+            "y": 277
+        }
+    },
+    {
+        "label": "boat",
+        "confidence": 0.46437665820121765,
+        "topleft": {
+            "x": 229,
+            "y": 217
+        },
+        "bottomright": {
+            "x": 330,
+            "y": 343
+        }
+    }
+][
+    {
+        "FileName": "I00653.jpg"
+    },
+    {
+        "label": "person",
+        "confidence": 0.3855738043785095,
+        "topleft": {
+            "x": 42,
+            "y": 206
+        },
+        "bottomright": {
+            "x": 75,
+            "y": 260
+        }
+    }
+][
+    {
+        "FileName": "I00459.jpg"
+    },
+    {
+        "label": "person",
+        "confidence": 0.3299453854560852,
+        "topleft": {
+            "x": 408,
+            "y": 220
+        },
+        "bottomright": {
+            "x": 429,
+            "y": 290
+        }
+    },
+    {
+        "label": "person",
+        "confidence": 0.6294561624526978,
+        "topleft": {
+            "x": 445,
+            "y": 232
+        },
+        "bottomright": {
+            "x": 481,
+            "y": 329
+        }
+    }
+][
+    {
+        "FileName": "I00388.jpg"
+    },
+    {
+        "label": "car",
+        "confidence": 0.4643833041191101,
+        "topleft": {
+            "x": 36,
+            "y": 230
+        },
+        "bottomright": {
+            "x": 134,
+            "y": 288
+        }
+    },
+    {
+        "label": "boat",
+        "confidence": 0.3836107552051544,
+        "topleft": {
+            "x": 140,
+            "y": 210
+        },
+        "bottomright": {
+            "x": 221,
+            "y": 263
+        }
+    },
+    {
+        "label": "boat",
+        "confidence": 0.3149048388004303,
+        "topleft": {
+            "x": 233,
+            "y": 199
+        },
+        "bottomright": {
+            "x": 285,
+            "y": 251
+        }
+    }
+][
+    {
+        "FileName": "I00728.jpg"
+    },
+    {
+        "label": "person",
+        "confidence": 0.3127932846546173,
+        "topleft": {
+            "x": 359,
+            "y": 226
+        },
+        "bottomright": {
+            "x": 373,
+            "y": 265
+        }
+    },
+    {
+        "label": "person",
+        "confidence": 0.49862390756607056,
+        "topleft": {
+            "x": 478,
+            "y": 218
+        },
+        "bottomright": {
+            "x": 501,
+            "y": 277
+        }
+    },
+    {
+        "label": "car",
+        "confidence": 0.4274217486381531,
+        "topleft": {
+            "x": 220,
+            "y": 210
+        },
+        "bottomright": {
+            "x": 246,
+            "y": 244
+        }
+    },
+    {
+        "label": "car",
+        "confidence": 0.30138593912124634,
+        "topleft": {
+            "x": 274,
+            "y": 211
+        },
+        "bottomright": {
+            "x": 304,
+            "y": 234
+        }
+    },
+    {
+        "label": "car",
+        "confidence": 0.7980858683586121,
+        "topleft": {
+            "x": 152,
+            "y": 219
+        },
+        "bottomright": {
+            "x": 223,
+            "y": 282
+        }
+    }
+][
+    {
+        "FileName": "I00897.jpg"
+    },
+    {
+        "label": "boat",
+        "confidence": 0.40636974573135376,
+        "topleft": {
+            "x": 359,
+            "y": 221
+        },
+        "bottomright": {
+            "x": 430,
+            "y": 290
+        }
+    }
+][
+    {
+        "FileName": "I00690.jpg"
+    },
+    {
+        "label": "person",
+        "confidence": 0.5024030208587646,
+        "topleft": {
+            "x": 4,
+            "y": 197
+        },
+        "bottomright": {
+            "x": 35,
+            "y": 259
+        }
+    }
+][
+    {
+        "FileName": "I00582.jpg"
+    },
+    {
+        "label": "person",
+        "confidence": 0.5498426556587219,
+        "topleft": {
+            "x": 504,
+            "y": 227
+        },
+        "bottomright": {
+            "x": 545,
+            "y": 291
+        }
+    }
+][
+    {
+        "FileName": "I00896.jpg"
+    }
+][
+    {
+        "FileName": "I00033.jpg"
+    },
+    {
+        "label": "car",
+        "confidence": 0.41226208209991455,
+        "topleft": {
+            "x": 374,
+            "y": 223
+        },
+        "bottomright": {
+            "x": 490,
+            "y": 352
+        }
+    }
+][
+    {
+        "FileName": "I00412.jpg"
+    },
+    {
+        "label": "person",
+        "confidence": 0.306999534368515,
+        "topleft": {
+            "x": 421,
+            "y": 3
+        },
+        "bottomright": {
+            "x": 439,
+            "y": 32
+        }
+    }
+][
+    {
+        "FileName": "I00893.jpg"
+    }
+][
+    {
+        "FileName": "I00719.jpg"
+    },
+    {
+        "label": "person",
+        "confidence": 0.35598379373550415,
+        "topleft": {
+            "x": 422,
+            "y": 213
+        },
+        "bottomright": {
+            "x": 437,
+            "y": 247
+        }
+    },
+    {
+        "label": "car",
+        "confidence": 0.46151497960090637,
+        "topleft": {
+            "x": 190,
+            "y": 201
+        },
+        "bottomright": {
+            "x": 243,
+            "y": 266
+        }
+    },
+    {
+        "label": "traffic light",
+        "confidence": 0.301159143447876,
+        "topleft": {
+            "x": 269,
+            "y": 177
+        },
+        "bottomright": {
+            "x": 281,
+            "y": 188
+        }
+    }
+][
+    {
+        "FileName": "I00429.jpg"
+    },
+    {
+        "label": "person",
+        "confidence": 0.3398149311542511,
+        "topleft": {
+            "x": 342,
+            "y": 201
+        },
+        "bottomright": {
+            "x": 372,
+            "y": 271
+        }
+    }
+][
+    {
+        "FileName": "I00791.jpg"
+    }
+][
+    {
+        "FileName": "I00679.jpg"
+    },
+    {
+        "label": "person",
+        "confidence": 0.4209894835948944,
+        "topleft": {
+            "x": 47,
+            "y": 193
+        },
+        "bottomright": {
+            "x": 79,
+            "y": 250
+        }
+    }
+][
+    {
+        "FileName": "I00727.jpg"
+    },
+    {
+        "label": "car",
+        "confidence": 0.6001061797142029,
+        "topleft": {
+            "x": 155,
+            "y": 221
+        },
+        "bottomright": {
+            "x": 223,
+            "y": 280
+        }
+    }
+][
+    {
+        "FileName": "I00048.jpg"
+    },
+    {
+        "label": "person",
+        "confidence": 0.49275627732276917,
+        "topleft": {
+            "x": 5,
+            "y": 216
+        },
+        "bottomright": {
+            "x": 97,
+            "y": 311
+        }
+    },
+    {
+        "label": "parking meter",
+        "confidence": 0.4183776080608368,
+        "topleft": {
+            "x": 179,
+            "y": 227
+        },
+        "bottomright": {
+            "x": 246,
+            "y": 294
+        }
+    }
+][
+    {
+        "FileName": "I00170.jpg"
+    },
+    {
+        "label": "person",
+        "confidence": 0.37493452429771423,
+        "topleft": {
+            "x": 5,
+            "y": 226
+        },
+        "bottomright": {
+            "x": 36,
+            "y": 295
+        }
+    },
+    {
+        "label": "person",
+        "confidence": 0.3874657154083252,
+        "topleft": {
+            "x": 25,
+            "y": 219
+        },
+        "bottomright": {
+            "x": 60,
+            "y": 296
+        }
+    },
+    {
+        "label": "boat",
+        "confidence": 0.49801820516586304,
+        "topleft": {
+            "x": 215,
+            "y": 196
+        },
+        "bottomright": {
+            "x": 283,
+            "y": 257
+        }
+    },
+    {
+        "label": "boat",
+        "confidence": 0.42459872364997864,
+        "topleft": {
+            "x": 282,
+            "y": 211
+        },
+        "bottomright": {
+            "x": 344,
+            "y": 257
+        }
+    },
+    {
+        "label": "boat",
+        "confidence": 0.5986053943634033,
+        "topleft": {
+            "x": 321,
+            "y": 230
+        },
+        "bottomright": {
+            "x": 481,
+            "y": 388
+        }
+    }
+][
+    {
+        "FileName": "I00457.jpg"
+    },
+    {
+        "label": "person",
+        "confidence": 0.558721125125885,
+        "topleft": {
+            "x": 432,
+            "y": 222
+        },
+        "bottomright": {
+            "x": 468,
+            "y": 328
+        }
+    }
+][
+    {
+        "FileName": "I00066.jpg"
+    },
+    {
+        "label": "car",
+        "confidence": 0.4530172646045685,
+        "topleft": {
+            "x": 230,
+            "y": 223
+        },
+        "bottomright": {
+            "x": 362,
+            "y": 356
+        }
+    },
+    {
+        "label": "boat",
+        "confidence": 0.3477153182029724,
+        "topleft": {
+            "x": 411,
+            "y": 250
+        },
+        "bottomright": {
+            "x": 617,
+            "y": 370
+        }
+    },
+    {
+        "label": "parking meter",
+        "confidence": 0.34017279744148254,
+        "topleft": {
+            "x": 233,
+            "y": 231
+        },
+        "bottomright": {
+            "x": 360,
+            "y": 375
+        }
+    }
+][
+    {
+        "FileName": "I00266.jpg"
+    },
+    {
+        "label": "person",
+        "confidence": 0.3504578769207001,
+        "topleft": {
+            "x": 392,
+            "y": 230
+        },
+        "bottomright": {
+            "x": 430,
+            "y": 288
+        }
+    },
+    {
+        "label": "person",
+        "confidence": 0.3675883114337921,
+        "topleft": {
+            "x": 532,
+            "y": 223
+        },
+        "bottomright": {
+            "x": 558,
+            "y": 292
+        }
+    }
+][
+    {
+        "FileName": "I00162.jpg"
+    },
+    {
+        "label": "boat",
+        "confidence": 0.31705209612846375,
+        "topleft": {
+            "x": 294,
+            "y": 221
+        },
+        "bottomright": {
+            "x": 359,
+            "y": 289
+        }
+    }
+][
+    {
+        "FileName": "I00458.jpg"
+    },
+    {
+        "label": "person",
+        "confidence": 0.6144571304321289,
+        "topleft": {
+            "x": 441,
+            "y": 234
+        },
+        "bottomright": {
+            "x": 475,
+            "y": 320
+        }
+    }
+][
+    {
+        "FileName": "I00541.jpg"
+    }
+][
+    {
+        "FileName": "I00907.jpg"
+    }
+][
+    {
+        "FileName": "I00499.jpg"
+    },
+    {
+        "label": "person",
+        "confidence": 0.32977914810180664,
+        "topleft": {
+            "x": 447,
+            "y": 225
+        },
+        "bottomright": {
+            "x": 477,
+            "y": 289
+        }
+    },
+    {
+        "label": "person",
+        "confidence": 0.39400213956832886,
+        "topleft": {
+            "x": 512,
+            "y": 222
+        },
+        "bottomright": {
+            "x": 544,
+            "y": 281
+        }
+    }
+][
+    {
+        "FileName": "I00930.jpg"
+    },
+    {
+        "label": "car",
+        "confidence": 0.31935742497444153,
+        "topleft": {
+            "x": 224,
+            "y": 178
+        },
+        "bottomright": {
+            "x": 293,
+            "y": 229
+        }
+    }
+][
+    {
+        "FileName": "I00575.jpg"
+    },
+    {
+        "label": "car",
+        "confidence": 0.41451185941696167,
+        "topleft": {
+            "x": 167,
+            "y": 216
+        },
+        "bottomright": {
+            "x": 224,
+            "y": 251
+        }
+    }
+][
+    {
+        "FileName": "I00619.jpg"
+    }
+][
+    {
+        "FileName": "I00774.jpg"
+    }
+][
+    {
+        "FileName": "I00001.jpg"
+    },
+    {
+        "label": "parking meter",
+        "confidence": 0.3551037907600403,
+        "topleft": {
+            "x": 351,
+            "y": 222
+        },
+        "bottomright": {
+            "x": 442,
+            "y": 333
+        }
+    }
+][
+    {
+        "FileName": "I00906.jpg"
+    }
+][
+    {
+        "FileName": "I00040.jpg"
+    },
+    {
+        "label": "car",
+        "confidence": 0.41171953082084656,
+        "topleft": {
+            "x": 191,
+            "y": 223
+        },
+        "bottomright": {
+            "x": 254,
+            "y": 288
+        }
+    },
+    {
+        "label": "car",
+        "confidence": 0.4069144129753113,
+        "topleft": {
+            "x": 378,
+            "y": 226
+        },
+        "bottomright": {
+            "x": 491,
+            "y": 343
+        }
+    }
+]
